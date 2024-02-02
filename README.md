@@ -15,3 +15,12 @@
 | 微調腳本 |
 | --- |
 | [Boron](https://github.com/samwhelp/bunsenlabs-adjustment/tree/main/prototype/main/bunsen-config/Main) |
+
+
+
+
+## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
