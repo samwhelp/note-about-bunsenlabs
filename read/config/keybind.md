@@ -86,3 +86,12 @@ parent: 設定
 | `Win + Down`         | Put Window to South Side    | `Move`             |
 | `Win + Left`         | Put Window to West Side   | `Move`        |
 | `Win + Right`         | Put Window to East Side    | `Move`             |
+
+
+
+
+## 常用程式
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+|   |   |   |
