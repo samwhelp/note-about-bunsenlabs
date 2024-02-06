@@ -72,3 +72,16 @@ parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + a`         | Switch to Previous Workspace    | `GoToDesktop Previous`        |
 | `Alt + s`         | Switch to Next Workspace    | `GoToDesktop Next`             |
+
+
+
+
+
+## 視窗平鋪
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Win + Up`         | Put Window to North Side   | `Move`        |
+| `Win + Down`         | Put Window to South Side    | `Move`             |
+| `Win + Left`         | Put Window to West Side   | `Move`        |
+| `Win + Right`         | Put Window to East Side    | `Move`             |
