@@ -26,3 +26,13 @@ parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + c` | Reconfigure | `Reconfigure` |
 | `Alt + Shift + x` | Exit | `Exit` |
+
+
+
+
+## 操作選單
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + F1` | Root Menu | `jgmenu_run` |
+| `Alt + F2` | Run Dialog | `gmrun` |
