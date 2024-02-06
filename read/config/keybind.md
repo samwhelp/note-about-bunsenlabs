@@ -36,3 +36,18 @@ parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + F1` | Root Menu | `jgmenu_run` |
 | `Alt + F2` | Run Dialog | `gmrun` |
+
+
+
+
+## 視窗操作
+
+| Keybind           | Action       | Command             |
+| ----------------- | ------------ | ------------------- |
+| `Alt + q`         | Window Close    | `Close`        |
+| `Alt + w`         | Window ToggleMaximize   | `ToggleMaximize`             |
+
+| Keybind           | Action       | Command             |
+| ----------------- | ------------ | ------------------- |
+| `Alt + F4`         | Window Close    | `Close`        |
+| `Alt + F6`         | Window ToggleMaximize   | `ToggleMaximize`             |
