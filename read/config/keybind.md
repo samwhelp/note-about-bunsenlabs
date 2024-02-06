@@ -24,8 +24,9 @@ parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + c` | Reconfigure | `Reconfigure` |
-| `Alt + Shift + x` | Exit | `Exit` |
+| `Alt + Shift + c` | Reconfigure  | `Reconfigure`       |
+| `Alt + Shift + x` | Exit Dialog  | `bl-exit`           |
+| `Alt + Ctrl + x`  | Openbox Exit | `Exit`              |
 
 
 
