@@ -62,3 +62,13 @@ parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Win + a`         | Switch to Previous Window    | `PreviousWindow`        |
 | `Win + s`         | Switch to Next Window    | `NextWindow`             |
+
+
+
+
+## 工作空間切換
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + a`         | Switch to Previous Workspace    | `GoToDesktop Previous`        |
+| `Alt + s`         | Switch to Next Workspace    | `GoToDesktop Next`             |
