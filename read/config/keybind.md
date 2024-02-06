@@ -44,8 +44,8 @@ parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + q`         | Window Close    | `Close`        |
-| `Alt + w`         | Window ToggleMaximize   | `ToggleMaximize`             |
+| `Win + q`         | Window Close    | `Close`        |
+| `Win + w`         | Window ToggleMaximize   | `ToggleMaximize`             |
 
 
 | 按鍵組合           | 功能        | 執行指令             |
@@ -60,5 +60,5 @@ parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + a`         | Switch to Previous Window    | `PreviousWindow`        |
-| `Alt + s`         | Switch to Next Window    | `NextWindow`             |
+| `Win + a`         | Switch to Previous Window    | `PreviousWindow`        |
+| `Win + s`         | Switch to Next Window    | `NextWindow`             |
