@@ -42,12 +42,23 @@ parent: 設定
 
 ## 視窗操作
 
-| Keybind           | Action       | Command             |
-| ----------------- | ------------ | ------------------- |
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
 | `Alt + q`         | Window Close    | `Close`        |
 | `Alt + w`         | Window ToggleMaximize   | `ToggleMaximize`             |
 
-| Keybind           | Action       | Command             |
-| ----------------- | ------------ | ------------------- |
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
 | `Alt + F4`         | Window Close    | `Close`        |
 | `Alt + F6`         | Window ToggleMaximize   | `ToggleMaximize`             |
+
+
+
+
+## 視窗切換
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + a`         | Switch to Previous Window    | `PreviousWindow`        |
+| `Alt + s`         | Switch to Next Window    | `NextWindow`             |
