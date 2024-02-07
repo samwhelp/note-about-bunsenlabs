@@ -20,7 +20,12 @@ parent: 設定
 
 ## Window Frame
 
-| 按鍵組合                    | 功能                 | 執行指令            |
-| --------------------------- | -------------------- | ------------------- |
-| `Win + Mouse Left Button`   | Drag Window Move     | `Move`              |
-| `Win + Mouse Right Button`  | Drag Window Rresize  | `Resize`            |
+| 按鍵組合                           | 功能                 | 執行指令            |
+| -----------------------------------| -------------------- | ------------------- |
+| `Win + Mouse Left Button Drag`     | Window Move          | `Move`              |
+| `Win + Mouse Right Button Drag`    | Window Rresize       | `Resize`            |
+
+
+| 按鍵組合                           | 功能                 | 執行指令            |
+| ---------------------------------- | -------------------- | ------------------- |
+| `Win + Mouse Middle Button Click`  | Show Client Menu     | `client-menu`       |
