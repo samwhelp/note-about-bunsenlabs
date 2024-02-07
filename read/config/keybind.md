@@ -92,6 +92,29 @@ parent: 設定
 
 ## 常用程式
 
+| 按鍵組合           | 功能        | 執行指令             | 中間指令             |
+| ----------------- | ------------ | ------------------- | --------------------- |
+| `Alt + Enter`     | Terminal     | `lxterminal`        | `x-terminal-emulator` |
+| `Alt + Shitf + a` | Terminal     | `lxterminal`        | `x-terminal-emulator` |
+
+
+| 按鍵組合           | 功能        | 執行指令             | 中間指令             |
+| ----------------- | ------------ | ------------------- | --------------------- |
+| `Win + f`         | File Manager | `thunar`            | `bl-file-manager`     |
+| `Win + b`         | Web Browser  | `firefox`           | `x-www-browser`       |
+| `Win + e`         | Text Editor  | `geany`             | `bl-text-editor`      |
+| `Win + t`         | Terminal     | `lxterminal`        | `x-terminal-emulator` |
+
+
+| 按鍵組合           | 功能        | 執行指令             | 中間指令             |
+| ----------------- | -------------- | ------------------- | --------------------- |
+| `Win + m`         | Media Player   | `vlc`               | `bl-media-player`     |
+| `Win + v`         | Volume Control | `pavucontrol`       |                       |
+| `Win + h`         | Task Manager   | `htop`              |                       |
+
+
 | 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-|   |   |   |
+| ----------------- | ------------ | --------------------- |
+| `Win + l`         | Lock Screen  | `bl-lock`             |
+| `Win + x`         | Logout       | `bl-exit`             |
+| `PrtSc`           | Screenshot   | `xfce4-screenshooter` |
