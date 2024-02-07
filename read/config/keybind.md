@@ -65,6 +65,11 @@ parent: 設定
 | `Win + s`         | Switch to Next Window      | `NextWindow`      |
 
 
+| 按鍵組合          | 功能                       | 執行指令          |
+| ----------------- | -------------------------- | ----------------- |
+| `Alt + Tab`       | Switch to Next Window      | `NextWindow`      |
+
+
 
 
 ## 工作空間切換
@@ -73,7 +78,6 @@ parent: 設定
 | ----------------- | ----------------------------- | ----------------------- |
 | `Alt + a`         | Switch to Previous Workspace  | `GoToDesktop Previous`  |
 | `Alt + s`         | Switch to Next Workspace      | `GoToDesktop Next`      |
-
 
 
 
@@ -118,4 +122,3 @@ parent: 設定
 | `Win + l`         | Lock Screen  | `bl-lock`             |
 | `Win + x`         | Logout       | `bl-exit`             |
 | `PrtSc`           | Screenshot   | `xfce4-screenshooter` |
-
