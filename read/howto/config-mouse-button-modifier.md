@@ -70,7 +70,7 @@ parent: 如何
 ```
 
 
-就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-gnome-shell/read/config/mousebind.html#視窗內容區塊)，
+就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-bunsenlabs/read/config/mousebind.html#視窗內容區塊)，
 
 | 滑鼠按鍵組合                |  功能                   |
 | --------------------------- | ----------------------- |
@@ -88,17 +88,17 @@ parent: 如何
 
 為了避免無謂的干擾，我會停用這個功能，
 
-請參考「[停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-menu.html)」這篇的說明。
+請參考「[停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/disable-keybind-open-menu.html)」這篇的說明。
 
 
 ## 相關議題
 
 | 相關議題 |
 | ------- |
-| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-gnome-shell/read/config/mousebind.html#視窗內容區塊) |
-| [停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-menu.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-bunsenlabs/read/config/mousebind.html#視窗內容區塊) |
+| [停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/disable-keybind-open-menu.html) |
 
 
 ## 相關應用
 
-* Menu Applet 開發筆記 / [demo-mouse-button-modifier](https://samwhelp.github.io/note-about-menu-applet/read/demo/demo-mouse-button-modifier.html#gnome-shell)
+* Menu Applet 開發筆記 / [demo-mouse-button-modifier](https://samwhelp.github.io/note-about-menu-applet/read/demo/demo-mouse-button-modifier.html)
