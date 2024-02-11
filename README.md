@@ -41,7 +41,7 @@
 
 ## 如何
 
-| 如何 |
+| [如何](https://samwhelp.github.io/note-about-bunsenlabs/read/howto.html) |
 | ------- |
 | [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/disable-keybind-open-menu.html) |
