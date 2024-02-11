@@ -76,3 +76,13 @@ parent: 設定
 | 相關連結 |
 | ------- |
 | System Modeling / [滑鼠按鍵組合](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-mousebind-common) |
+
+
+
+
+## 相關議題
+
+| 相關議題 |
+| ------- |
+| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-bunsenlabs/read/howto/disable-keybind-open-menu.html) |
