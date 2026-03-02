@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [BunsenLabs Respin](#bunsenlabs-respin)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
@@ -25,6 +26,15 @@
 | 微調腳本 |
 | --- |
 | [Boron](https://github.com/samwhelp/bunsenlabs-adjustment/tree/main/prototype/main/bunsen-config/Main) |
+
+
+
+
+## BunsenLabs Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [BunsenLabs Openbox 探索筆記](https://samwhelp.github.io/note-about-bunsenlabs-openbox/) | [GitHub](https://github.com/samwhelp/note-about-bunsenlabs-openbox) |
 
 
 
@@ -56,6 +66,7 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 | [Tint2 探索筆記](https://samwhelp.github.io/note-about-tint2/) | [GitHub](https://github.com/samwhelp/note-about-tint2) |
+| [Mabox 探索筆記](https://samwhelp.github.io/note-about-mabox/) | [GitHub](https://github.com/samwhelp/note-about-mabox) |
 
 
 
