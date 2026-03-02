@@ -25,7 +25,7 @@
 
 | 微調腳本 |
 | --- |
-| [Boron](https://github.com/samwhelp/bunsenlabs-adjustment/tree/main/prototype/main/bunsen-config/Main) |
+| [bunsen-config](https://github.com/samwhelp/bunsenlabs-adjustment/tree/main/prototype/main) |
 
 
 
